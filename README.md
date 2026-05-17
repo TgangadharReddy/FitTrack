@@ -1,39 +1,45 @@
 # FitTrack
 
-Modern fitness tracking web application built using React + Vite.
+A modern fitness tracking frontend application built using React and Vite.
+
+## Live Demo
+https://fit-track-seven-sigma.vercel.app
+
+## GitHub Repository
+https://github.com/TgangadharReddy/FitTrack
 
 ## Features
-
-- Modern responsive landing page
-- Premium UI design
-- Animated sections
-- Multi-section homepage
+- Modern Landing Page
 - Authentication UI
-- Dashboard UI
-- Pricing section
-- Testimonials
-- Contact section
-- Mobile responsive design
+- Dashboard Page
+- Responsive Design
+- React Router Navigation
+- Reusable Components
 
 ## Tech Stack
-
 - React
 - Vite
 - Tailwind CSS
-- Framer Motion
-- React Icons
-
-## Project Structure
-
-src/
-├── components/
-├── pages/
-├── assets/
-├── hooks/
-├── layouts/
+- React Router DOM
+- Vercel
 
 ## Installation
 
 ```bash
+git clone https://github.com/TgangadharReddy/FitTrack.git
+cd FitTrack
 npm install
 npm run dev
+```
+
+## Folder Structure
+
+src/
+components/
+pages/
+hooks/
+layouts/
+
+## Deployment
+
+Deployed using Vercel.
